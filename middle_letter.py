@@ -6,7 +6,7 @@ def mid(word):
 		middle = word[offset: offset + 1]
 	return(middle)
 
-print(mid("abc"))
+print(mid("abcde"))
 print(mid("turtles"))
 print(mid(""))
 print(mid("abba"))
